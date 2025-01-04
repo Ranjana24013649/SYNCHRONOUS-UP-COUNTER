@@ -2,7 +2,7 @@
 
 **REGISTER NO: 212224040270**
 
-# EXP NO:7 SYNCHRONOUS-UP-COUNTER #
+# EXP NO:7 IMPLEMENTATION  SYNCHRONOUS-UP-COUNTER #
 
 **AIM:**
 
@@ -46,7 +46,7 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 **PROGRAM**
 
 
-![Screenshot (56)](https://github.com/user-attachments/assets/a188d956-6f14-4ca3-b625-c44846097baf)
+
 
 
 **RTL LOGIC UP COUNTER**
@@ -55,7 +55,7 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 
 **TIMING DIAGRAM FOR IP COUNTER**
-![Screenshot (57)](https://github.com/user-attachments/assets/517490a8-7151-4717-97db-b5f57ad3b4e6)
+![Screenshot (87)](https://github.com/user-attachments/assets/8862157b-7c61-4d16-b2af-3b69da217d71)
 
 
 
